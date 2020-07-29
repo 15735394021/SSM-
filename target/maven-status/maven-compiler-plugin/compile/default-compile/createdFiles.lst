@@ -1,0 +1,5 @@
+com\fenghuo\service\TestService.class
+com\fenghuo\service\impl\TestServiceImpl.class
+com\fenghuo\domain\Test.class
+com\fenghuo\dao\TestDao.class
+com\fenghuo\controller\TestController.class
